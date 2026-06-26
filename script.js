@@ -1,5 +1,5 @@
 /* =====================================================
-   GRIYA PALU PROPERTI — script.js
+   Unity PROPERTI — script.js
    Includes: navbar scroll, mobile menu, hero load,
              simulasi KPR (anuitas), FAQ accordion,
              form → WhatsApp, smooth scroll
@@ -232,7 +232,7 @@
       formError.textContent = '';
 
       // Susun pesan WA
-      var waMsg = '🏡 *Formulir Minat — Griya Palu Properti*\n\n';
+      var waMsg = '🏡 *Formulir Minat — Unity Properti*\n\n';
       waMsg += '*Nama:* ' + nama + '\n';
       waMsg += '*No. WA:* ' + wa + '\n';
       if (tipe) waMsg += '*Tipe Rumah Diminati:* ' + tipe + '\n';
